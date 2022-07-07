@@ -18,6 +18,9 @@ Transfer Money > Select reciever > View all Users > View Transfer History.
 ![image](https://user-images.githubusercontent.com/76639143/177837828-a2e60a26-a6bc-40e5-af17-e7366e7437d1.png)
 
 
+![image](https://user-images.githubusercontent.com/76639143/177837988-f4513c97-796a-48c8-a16c-05fa15235582.png)
+
+
 
 
 
