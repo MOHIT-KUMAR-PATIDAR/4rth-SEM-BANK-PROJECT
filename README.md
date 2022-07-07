@@ -13,5 +13,11 @@ Flow of the Website: Home Page > View all Users > Select and View one User >
 Transfer Money > Select reciever > View all Users > View Transfer History.
 
 
-This project is my academic project which i did in my 4rth Semester as a part of 
-Software Engineering and project management subject curriculam 
+# Home Page  # 
+
+![image](https://user-images.githubusercontent.com/76639143/177837828-a2e60a26-a6bc-40e5-af17-e7366e7437d1.png)
+
+
+
+
+
