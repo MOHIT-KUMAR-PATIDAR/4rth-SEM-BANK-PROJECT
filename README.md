@@ -23,7 +23,33 @@ Transfer Money > Select reciever > View all Users > View Transfer History.
 
 # Login & Sign-Up #
 
-![image](https://user-images.githubusercontent.com/76639143/177838188-f25d8657-27f1-42ac-982f-6d1add6ef4e6.png)
+![image](https://user-images.githubusercontent.com/76639143/177838301-8a7c35a2-f992-4e0f-a9bd-0398452c9501.png)
+
+
+# Transfer Money #
+
+![image](https://user-images.githubusercontent.com/76639143/177838391-5eebe7a7-a591-4d08-aa2f-1c851913aa33.png)
+
+
+# Transaction History # 
+
+![image](https://user-images.githubusercontent.com/76639143/177838457-b528998a-1b1a-4618-b23f-d5bb18762fea.png)
+
+
+
+
+
+# Xampp Server  #
+
+![image](https://user-images.githubusercontent.com/76639143/177839504-68413018-36c1-462b-ba4d-04dcf1c590e9.png)
+
+
+
+
+
+
+
+
 
 
 
